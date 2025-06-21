@@ -25,7 +25,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: utkarshjain01/my-flask-app-EL:latest
+          tags: utkarshjain01/my-flask-app-el:latest
 
       - name: Run tests
         run: |
